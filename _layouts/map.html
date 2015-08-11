@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include headmap.html %}
+
+  <body>
+    <div class="container content">
+      <header class="masthead-no-margin">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <small>{{ page.title }}</small>
+        </h3>
+      </header>
+    </div>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+    <script>
+      placesPath = "{{ page.places-json }}"
+    </script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/map/js/maptheme.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/map/js/mapdisplay.js"></script>
+    <div id="map-canvas"></div>
+
+  </body>
+</html>

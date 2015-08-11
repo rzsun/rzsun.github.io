@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               The After
+tagline:             thoughts and travel of R.Z. Sun
+url:                 
+paginate:            10
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              
+  url:               
+  email:             zhensn@gmail.com
+
+# Custom vars
+version:             
+github:
+  repo:              https://github.com/zhengsun

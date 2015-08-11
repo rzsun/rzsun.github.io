@@ -1,0 +1,170 @@
+[  
+    {  
+        "name":"Camberwell Green",
+        "picture_path":"CamberwellGreen.jpg",
+        "lat":"51.4750",
+        "lng":"-0.0930",
+        "description":"Where our Airbnb was located. A multiethnic and culturally vibrant district of London. Definately try Bolu's for some cheap and delicious döner kebabs if you are in the area."
+    },
+
+    {
+        "name":"Big Ben",
+        "picture_path":"BigBen.jpg",
+        "lat":"51.5008",
+        "lng":"-0.1247",
+        "description":"One of the iconic symbols of the UK."
+    },
+
+    {
+        "name":"Buckingham Palace",
+        "picture_path":"Buckingham.jpg",
+        "lat":"51.5010",
+        "lng":"-0.1416",
+        "description":"Didn't see any royalty but did get to see lots of Asian tour groups."
+    },
+
+    {  
+        "name":"Covent Gardens",
+        "picture_path":"CoventGardens.jpg",
+        "lat":"51.5120",
+        "lng":"-0.1228",
+        "description":"Expensive shops, pubs, and tourists - much like the rest of London."
+    },
+
+    {
+        "name":"The Library and Museum of Freemasonry",
+        "picture_path":"FreemasonsMuseum.jpg",
+        "lat":"51.515032",
+        "lng":"-0.121621",
+        "description":"A super impromptu musuem visit - we mostly decided to check it out because it was free, unlike pretty much everything else in the area. Lots of really cool displays and history about Freemasonry in this museum, some Illuminati-vibes."
+    },
+
+    {
+        "name":"Trafalgar Square",
+        "picture_path":"TrafalgarSquare.jpg",
+        "lat":"51.5081",
+        "lng":"-0.1281",
+        "description":"One of the most vibrant places in London, lots of street performers."
+    },
+
+    {
+        "name":"Soho",
+        "picture_path":"Soho.jpg",
+        "lat":"51.5130",
+        "lng":"-0.1310",
+        "description":"Upscale district. Entertainment, fashion, nightlife."
+    },
+
+    {
+        "name":"Camden Market",
+        "picture_path":"CamdenMarket.jpg",
+        "lat":"51.5414",
+        "lng":"-0.1464",
+        "description":"Really cool street market, lots of interesting and diverse foods."
+    },
+
+
+    {
+        "name":"The Weather",
+        "picture_path":"Weather.jpg",
+        "lat":"51.5072",
+        "lng":"-0.1275",
+        "description":"Cloudy with a chance of clouds."  
+    },
+
+    {
+        "name":"Tower Bridge",
+        "picture_path":"TowerBridge.jpg",
+        "lat":"51.5056",
+        "lng":"-0.0756",
+        "description":"The Tower Bridge as seen from the London Bridge at night."
+    },
+
+    {
+        "name":"Changing of the Horse Guards",
+        "picture_path":"HorseGuards.jpg",
+        "lat":"51.504580",
+        "lng":"-0.127374",
+        "description":"11:00a Mon-Sat and 10:00a Sun."
+    },
+
+    {
+        "name":"Regent's Park",
+        "picture_path":"RegentsPark.jpg",
+        "lat":"51.5322",
+        "lng":"-0.1567",
+        "description":"You can rent paddleboats here and go around a lake, don't crash into ducks."
+    },
+
+    {
+        "name":"Hyde Park",
+        "picture_path":"HydePark.jpg",
+        "lat":"51.5086",
+        "lng":"-0.1636",
+        "description":"A beautiful park with some foundations, very relaxing."
+    },
+
+    {  
+        "name":"Royal Observatory/Greenwich",
+        "picture_path":"RoyalObservatory.jpg",
+        "lat":"51.4778",
+        "lng":"-0.0015",
+        "description":"Passes through the Prime Meridian, on top of a hill with a view."
+    },
+
+    {
+        "name":"Westminster Abbey",
+        "picture_path":"WestminsterAbbey.jpg",
+        "lat":"51.4994",
+        "lng":"-0.1275",
+        "description":"World famous church, still in service today."
+    },
+
+    {
+        "name":"Pimms",
+        "picture_path":"Pimms.jpg",
+        "lat":"51.506061",
+        "lng":"-0.091058",
+        "description":"Popular liqueur in London, usually served with oranges, cucumbers, and mint."
+    },
+
+    {
+        "name":"London Eye",
+        "picture_path":"LondonEye.jpg",
+        "lat":"51.5033",
+        "lng":"-0.1197",
+        "description":"The large ferris wheel of the London skyline, pretty pricey to get on."
+    },
+
+    {
+        "name":"Walking along River Thames",
+        "picture_path":"RiverThames.jpg",
+        "lat":"51.507906",
+        "lng":"-0.094587",
+        "description":"Really cool experience, beautiful view of London."
+    },
+
+    {
+        "name":"Various Bridges",
+        "picture_path":"Bridges.jpg",
+        "lat":"51.507906",
+        "lng":"-0.094587",
+        "description":"There are lots of cool bridges that cross the river (Millenium, Southwark, London)."
+    },
+
+    {
+        "name":"St. Paul's Cathedral",
+        "picture_path":"StPaulsCathedral.jpg",
+        "lat":"51.513832",
+        "lng":"-0.098329",
+        "description":"St. Paul's Cathedral as seen from the Millenium Bridge."
+    },
+
+    {
+        "name":"Borough Market",
+        "picture_path":"BoroughMarket.jpg",
+        "lat":"51.5049",
+        "lng":"-0.0911",
+        "description":"London's most renowned food market."
+    }
+]
