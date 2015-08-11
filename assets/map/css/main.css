@@ -1,0 +1,50 @@
+html {
+    height: 100%
+}
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    height: 100%;
+}
+
+.navbar-mappage {
+    margin-bottom: 0;
+}
+
+.dropdown-menu {
+    padding: 8px;
+}
+
+#map-canvas {
+    height: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 22pt;
+    margin: 4px;
+}
+
+.listviewitem {
+    margin: 0 auto;
+    max-width: 420px;
+    padding-bottom: 35px;
+    margin-top: 35px;
+    border-bottom: 1px solid #cecece; 
+}
+
+.masthead-title {
+    display: inline;
+}
+
+.nav {
+    float: right;
+}
+
+#prev {
+    margin-right: 1rem;
+}

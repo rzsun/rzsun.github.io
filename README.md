@@ -1,0 +1,1 @@
+My blog built using [Jekyll](http://jekyllrb.com) and [Poole](http://getpoole.com).

@@ -1,0 +1,28 @@
+// Index
+
+.index-post {
+  margin-bottom: 1.5em;
+}
+
+// Blog post or page title
+.index-post-title{
+  margin: 0;
+}
+
+.index-post a { 
+  font-size: 1.25rem;
+  font-weight: bold;
+  display: block;
+  color: #303030;
+}
+
+
+// Meta data line below post title
+.index-post-date {
+  font-size: 1rem;
+  display: inline;
+  text-align: right;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  color: #9a9a9a;
+}

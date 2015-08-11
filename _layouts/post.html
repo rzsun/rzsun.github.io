@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% if page.header-image %}
+  <div class="header-image" style="background-image: url('{{ page.header-image }}')">
+    <img src="{{ page.header-image }}" class='header-img' alt="header">
+    <div class="header-title" 
+      {% if page.header-image %} 
+        style="color: #{{ page.header-title-color }}"
+      {% endif %}>
+        {{ page.title }}
+    </div>
+  </div>
+{% endif %}
+<div class="container content">
+  <main>
+    <article class="post">
+      {% if page.header-image == nil %}<h1 class="post-title">{{ page.title }}</h1>{% endif %}
+      <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+      {{ content }}
+    </article>
+  </main>
+</div>
