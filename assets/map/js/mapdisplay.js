@@ -42,8 +42,8 @@ function drawEvents(filePath) {
                     infowindow.setContent(contentString);
                     infowindow.open(window.map, marker);
                     //pan to center to marker then pan down to center infowindow
-                    //map.panTo(marker.getPosition());
-                    //map.panBy(0, 0);
+                    map.panTo(marker.getPosition());
+                    map.panBy(0, -200);
                     curIndex = markerToIndex[marker.getTitle()];
                 });
                 markerToIndex[marker.getTitle()] = i;
@@ -63,7 +63,8 @@ function next() {
     infowindow.setContent(places[curIndex].contentString);
     infowindow.open(window.map, places[curIndex].marker);
     //pan to center to marker then pan down to center infowindow
-    //map.panTo(places[curIndex].marker.getPosition());
+    map.panTo(marker.getPosition());
+    map.panBy(0, -200);
 }
 
 function prev() {
@@ -71,7 +72,8 @@ function prev() {
     infowindow.setContent(places[curIndex].contentString);
     infowindow.open(window.map, places[curIndex].marker);
     //pan to center to marker then pan down to center infowindow
-    //map.panTo(places[curIndex].marker.getPosition());
+    map.panTo(marker.getPosition());
+    map.panBy(0, -200);
 }
 
 google.maps.event.addDomListener(window, 'load', initializeMap);

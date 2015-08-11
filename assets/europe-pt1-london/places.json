@@ -63,6 +63,23 @@
         "description":"Really cool street market, lots of interesting and diverse foods."
     },
 
+
+    {
+        "name":"The Weather",
+        "picture_path":"Weather.jpg",
+        "lat":"51.5072",
+        "lng":"-0.1275",
+        "description":"Cloudy with a chance of clouds."  
+    },
+
+    {
+        "name":"Tower Bridge",
+        "picture_path":"TowerBridge.jpg",
+        "lat":"51.5056",
+        "lng":"-0.0756",
+        "description":"The Tower Bridge as seen from the London Bridge at night."
+    },
+
     {
         "name":"Changing of the Horse Guards",
         "picture_path":"HorseGuards.jpg",
@@ -149,21 +166,5 @@
         "lat":"51.5049",
         "lng":"-0.0911",
         "description":"London's most renowned food market."
-    },
-
-    {
-        "name":"The Weather",
-        "picture_path":"Weather.jpg",
-        "lat":"51.5072",
-        "lng":"-0.1275",
-        "description":"Cloudy with a chance of clouds."  
-    },
-
-    {
-        "name":"Tower Bridge",
-        "picture_path":"TowerBridge.jpg",
-        "lat":"51.5056",
-        "lng":"-0.0756",
-        "description":"The Tower Bridge as seen from the London Bridge at night."
     }
 ]
