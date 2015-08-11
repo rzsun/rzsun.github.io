@@ -9,7 +9,7 @@
       {% else %}<header class="masthead">{% endif %}
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          {% if site.title != "Home" %}<small>{{ page.title }}</small>{% else %}
+          {% if page.title != "Home" %}<small>{{ page.title }}</small>{% else %}
           <small>{{ site.tagline }}</small>{% endif %}
         </h3>
       </header>
