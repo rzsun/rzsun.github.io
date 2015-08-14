@@ -9,7 +9,7 @@ var curIndex = -1;
 
 function initializeMap() {
     var mapOptions = {
-        center: new google.maps.LatLng(51.50, -0.113358),
+        center: new google.maps.LatLng(centerLat, centerLng),
         zoom: 13,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         styles: mapTheme,
@@ -19,16 +19,16 @@ function initializeMap() {
     map = new google.maps.Map(document.getElementById("map-canvas"),
             mapOptions);
 
-    drawEvents(placesPath);
+    drawEvents(assetsPath);
 }
 
 function drawEvents(filePath) {
-    $.getJSON(filePath, function(eventJSON) {
+    $.getJSON(filePath + "places.json", function(eventJSON) {
         for (var i = 0; i < eventJSON.length; i++) {
             function addMarker(place) {
                 var contentString = '<div class="infowindow"><h2 class="infotitle"><a href="#" id="prev">&#10094;</a>' + place.name + '<a href="#" id="next">&#10095;</a></h2>';
                 if(place.picture_path != null)
-                    contentString = contentString + '<img src=\'/assets/europe-pt1-london/img/' + place.picture_path + '\' \n\ style=\'max-width:100%;max-height:500px;margin:0\'>';
+                    contentString = contentString + '<img src=\'' + filePath + 'img/' + place.picture_path + '\' \n\ style=\'max-width:100%;max-height:500px;margin:0\'>';
                 contentString = contentString + '<p style=\'font-size:1rem;margin:0\'>' + place.description + '</p></div>';
                 
                 var marker = new google.maps.Marker({

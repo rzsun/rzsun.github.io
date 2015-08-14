@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               The After
-tagline:             thoughts and travel of R.Z. Sun
+tagline:             a blog by RZ Sun
 url:                 
 paginate:            10
 baseurl:             ""
