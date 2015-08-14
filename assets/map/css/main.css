@@ -22,6 +22,7 @@ body {
 #map-canvas {
     height: 100%;
     overflow: hidden;
+    margin: 0 0 0 0;
 }
 
 h1 {
@@ -41,10 +42,29 @@ h1 {
     display: inline;
 }
 
-.nav {
-    float: right;
+h3 {
+    margin-right: 2rem;
+}
+
+.infowindow {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    z-index: 99;
+}
+
+.infotitle {
+    margin: 0;
+    text-align: center;
+}
+
+
+.infowdescription {
+    font-size: 1rem;
 }
 
 #prev {
     margin-right: 1rem;
+}
+
+#next {
+    margin-left: 1rem;
 }
