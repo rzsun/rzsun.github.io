@@ -2,12 +2,11 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               The After
 tagline:             a blog by RZ Sun
-url:                 
+url:                 "http://theafter.io/"
 paginate:            10
 baseurl:             ""
 
@@ -27,4 +26,7 @@ author:
 # Custom vars
 version:             
 github:
-  repo:              https://github.com/zhengsun
+  repo:              https://github.com/rzsun
+
+# Gems
+gems: [jekyll-paginate]
