@@ -8,9 +8,12 @@
       {% if page.header-image %} <header class="masthead-no-margin">
       {% else %}<header class="masthead">{% endif %}
         <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          {% if page.title != "Home" %}<small>{{ page.title }}</small>{% else %}
-          <small>{{ site.tagline }}</small>{% endif %}
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>
+              <a href="{{ site.baseurl }}/" title="Home">home</a>
+              <a href="http://theafter.io/photoportfolio/" title="Photography">photography</a>
+              <a href="{{ site.baseurl }}/about/" title="About">about</a>
+            </small>
         </h3>
       </header>
     </div>

@@ -14,19 +14,19 @@ baseurl:             ""
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+sass_dir:           _sass
+style:              :compressed
 
 # About/contact
-author:
-  name:              
-  url:               
-  email:             zhensn@gmail.com
+author:             RZ Sun
+name:              
+url:                
+email:              zhensn@gmail.com
 
 # Custom vars
 version:             
 github:
-  repo:              https://github.com/rzsun
+repo:               https://github.com/rzsun
 
 # Gems
 gems: [jekyll-paginate]
