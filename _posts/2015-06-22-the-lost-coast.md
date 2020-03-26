@@ -11,20 +11,20 @@ I hiked a two-day long roundtrip along the coastal trail of the Lost Coast start
 
 ![My hike was along the dotted line (map credit to California State Parks)](/assets/the-lost-coast/Map.jpg)
 
-######My hike was along the dotted line (map credit to California State Parks)
+###### My hike was along the dotted line (map credit to California State Parks)
 
-###Preparation
+### Preparation
 
 I packed the backpacking essentials (REI has [a great list](http://www.rei.com/learn/expert-advice/backpacking-checklist.html)). Note that the trail intersects with a few fresh water creeks so water filters are necessary for rehydration. Some areas of the trail are overgrown with thorny plants so wearing long pants and long sleeves may offer slight protection if you can handle the heat. I tried to pack as lightly as possible, my backpack weighed about 35 pounds.
 
 ![Tried to pack as lightly as possible, backpack weighted about 35 pounds](/assets/the-lost-coast/Gear.jpg)
 
-###Getting There
+### Getting There
 To reach Usal Camp, there is a dirt road that intersects California Highway 1 at the 90.88 milepost. The campsite can be reached after driving along the dirt road for about 6 miles.
 
 ![Driving along the dirt road](/assets/the-lost-coast/Drive.jpg)
 
-###The Hike
+### The Hike
 The beginning of the hike is an uphill with a few switchbacks in the redwoods. This area is tame and lets you catch your rhythm before going into the more challenging areas of the hike.
 
 ![Starting on the long trek](/assets/the-lost-coast/Beginning.jpg)
@@ -40,7 +40,7 @@ The next part of the hike is not the most difficult part, but it is the most pai
 
 ![Notice the small clearing in the center-left; the trail goes through these plants](/assets/the-lost-coast/Thorns.jpg)
 
-######Notice the small clearing in the center-left; the trail goes through these plants
+###### Notice the small clearing in the center-left; the trail goes through these plants
 
 Past the thorns, the trail enters the woods again. There are many steep hills here but also many large flat sections where you can sit down and take a break. There are some spots here that you can catch glimpses of the ocean. Extra caution is needed on the hills because the trail becomes very narrow and your footing may give away due to loose gravel. A slip will lead to a precipitous tumble off the edge of the trail.
 
@@ -53,11 +53,11 @@ Eventually the trail crosses a fresh water stream. Here, you can rehydrate yours
 
 ![I highly recommend Sawyer Squeeze Filters. Slow to fill but easy and light to carry](/assets/the-lost-coast/FillWater.jpg)
 
-######I highly recommend Sawyer Squeeze Filters. Slow to fill but easy and light to carry
+###### I highly recommend Sawyer Squeeze Filters. Slow to fill but easy and light to carry
 
 ![Outhouse at Anderson Camp, no door so you better get comfortable](/assets/the-lost-coast/Outhouse.jpg)
 
-######Outhouse at Anderson Camp, no door so you better get comfortable
+###### Outhouse at Anderson Camp, no door so you better get comfortable
 
 The final stretch is very steep and uneven which makes the hike quite difficult - even more so if you are already fatigued. The scenery here is varied with many different types of plants.
 
@@ -72,7 +72,7 @@ Eventually, the trail reaches a cozy-looking campsite by a creek. However, those
 ###### The orange and yellow tents in the center right is our campsite
 ![Sunset at the beach](/assets/the-lost-coast/Sunset.jpg)
 
-###Conclusion
+### Conclusion
 
 I would highly recommend the Lost Coast to those looking to find amazing views of the California coastline and a moderately challenging hike. I would not hesitate to come back and hike through further sections of the trail in the future.
 
