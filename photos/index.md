@@ -6,35 +6,44 @@ stylesheet:
 hide-title: true
 ---
 
+![Tokyo Bar](/assets/photos/web_tokyo_bar.jpg)
+Tokyo, Japan — 2017
+
 ![九份](/assets/photos/web_jiufen.jpg)
 九份 — 2018
 
-![Tokyo Bar](/assets/photos/web_tokyo_bar.jpg)
-Tokyo, Japan — 2017
+![GZ Drums](/assets/photos/web_gz_drums.jpeg)
+广州 — 2019
+
+![Queens Sphere](/assets/photos/web_queens_sphere.png)
+Queens, NY — 2021
 
 ![North Bend Frozen Stumps](/assets/photos/web_north_bend_frozen_stumps.jpeg)
 North Bend, WA — 2017
 
-![Shanghai Night](/assets/photos/web_shanghai_night.jpg)
-上海 — 2017
-
 ![GZ Temple](/assets/photos/web_gz_temple.jpg)
 广州 — 2019
 
-![Cap Lights](/assets/photos/web_cap_lights.jpg)
-Vancouver, Canada — 2016
-
-![Hanatoro](/assets/photos/web_hanatoro.jpeg)
-Kyoto, Japan — 2017
+![Manhattan from Brooklyn](/assets/photos/web_manhattan_sunset.png)
+NYC, NY — 2021
 
 ![Swan Lake](/assets/photos/web_swanlake.jpg)
 Hamburg, Germany — 2015
 
+![Kinkaku-ji](/assets/photos/web_kinkakuji.jpg)
+Kyoto, Japan — 2017
+
+![Shanghai Night](/assets/photos/web_shanghai_night.jpg)
+上海 — 2017
+
+![Hanatoro](/assets/photos/web_hanatoro.jpeg)
+Kyoto, Japan — 2017
+
+![Cap Lights](/assets/photos/web_cap_lights.jpg)
+Vancouver, Canada — 2016
+
 ![Venice Boats](/assets/photos/web_venice_boats.jpg)
 Venice, Italy — 2015
-
-![GZ Drums](/assets/photos/web_gz_drums.jpeg)
-广州 — 2019
 
 ![Temples @ Neumos](/assets/photos/web_temples_at_neumos.jpg)
 Seattle, WA — 2015
@@ -44,9 +53,6 @@ Seattle, WA — 2015
 
 ![JZ Dusk](/assets/photos/web_jz_dusk.jpg)
 荆州 — 2019
-
-![Kinkaku-ji](/assets/photos/web_kinkakuji.jpg)
-Kyoto, Japan — 2017
 
 ![HB Countryside](/assets/photos/web_hb_countryside.jpeg)
 湖北 — 2017

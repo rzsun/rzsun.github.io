@@ -1,9 +1,3 @@
-body .container {
-    max-width: 912px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 p {
     font-family: Helvetica, sans-serif;
     text-align: center;
@@ -25,9 +19,6 @@ img {
 @media only screen and (max-width: 960px) {
     body {
         max-width: 95%;
-        font-size: 5vw;
-    }
-    h1 {
         font-size: 5vw;
     }
     p {

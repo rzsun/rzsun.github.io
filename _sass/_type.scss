@@ -54,7 +54,12 @@ strong {
   color: #303030;
 }
 
-ul, ol, dl {
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
