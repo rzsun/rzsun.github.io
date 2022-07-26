@@ -34,6 +34,8 @@ Most Spark data including RDDs, broadcasts, stream data, operations (shuffle/joi
 
 ### JVM Heap
 
+Here is a breakdown of the memory areas on the JVM heap:
+
 | Memory Area | Use case                                                                                                                                                         | Size                                                                               |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | Execution   | Used for shuffles, joins, sorts, and aggregations. Evicted after each operation. Metrics found Execution tab of SparkUI. **Causes OOM if full** | spark.executor.memory * spark.memory.fraction * (1 - spark.memory.storageFraction) |
@@ -71,6 +73,8 @@ When OOMs occur in the JVM heap, they will be logged to the executor logs. Here 
 - Tune [data serialization](https://spark.apache.org/docs/latest/tuning.html#data-serialization)
 
 ### Off Heap
+
+Here is a breakdown of the memory areas off heap:
 
 | Memory Area | Use case                                                               | Size                          |
 |-------------|------------------------------------------------------------------------|-------------------------------|

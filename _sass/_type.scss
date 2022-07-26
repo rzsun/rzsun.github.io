@@ -3,7 +3,7 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -12,15 +12,16 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2rem;
+  margin-bottom: 2rem;
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   font-size: 1.5rem;
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
   font-size: 1.25rem;
 }
 
@@ -46,22 +47,21 @@ h6 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
 }
 
 strong {
   color: #303030;
 }
 
-ul {
-  margin-top: 0;
+ul, ol, dl {
+  margin-top: 0.5rem;
   margin-bottom: 0;
 }
 
-ol, dl {
+li ul, li ol, li dl {
   margin-top: 0;
-  margin-bottom: 1rem;
 }
 
 dt {
