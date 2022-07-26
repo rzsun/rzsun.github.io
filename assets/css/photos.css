@@ -1,0 +1,36 @@
+body .container {
+    max-width: 912px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 20vh;
+    font-size: 1.5em;
+    font-weight: 400;
+    color: #aaa;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    display: block;
+}
+
+@media only screen and (max-width: 960px) {
+    body {
+        max-width: 95%;
+        font-size: 5vw;
+    }
+    h1 {
+        font-size: 5vw;
+    }
+    p {
+        font-size: 4vw;
+    }
+}

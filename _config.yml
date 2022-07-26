@@ -4,9 +4,8 @@
 permalink:           pretty
 
 # Setup
-title:               The After
-tagline:             a blog by RZ Sun
-url:                 "http://theafter.io/"
+title:               rzsun
+url:                 "https://rzsun.dev"
 paginate:            10
 baseurl:             ""
 
@@ -21,12 +20,12 @@ style:              :compressed
 author:             RZ Sun
 name:              
 url:                
-email:              zhensn@gmail.com
+email:              
 
 # Custom vars
 version:             
 github:
 repo:               https://github.com/rzsun
 
-# Gems
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
