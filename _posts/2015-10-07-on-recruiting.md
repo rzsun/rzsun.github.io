@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Recruiting
+archived: true
 ---
 
 We are heading into recruiting season and I know many junior/seniors are stressed out right now. I was in the same situation two years ago (as well as one year ago) and remember how stressed I felt. I wanted to share my experience to provide a personal account of how I found an entry-level job despite some initial hardships and to hopefully motivate those who are in the same boat.

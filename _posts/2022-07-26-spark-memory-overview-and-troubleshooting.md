@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spark Memory Overview and Troubleshooting
+archived: true
 ---
 ## Spark Architecture
 
