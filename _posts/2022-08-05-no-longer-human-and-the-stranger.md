@@ -6,7 +6,7 @@ title: 'Reading "No Longer Human" and "The Stranger" as Eastern and Western Para
 ![Dazai and Camus](/assets/no-longer-human-and-the-stranger/dazai-camus.png)
 ###### Left: Osamu Dazai, Right: Albert Camus
 
-I read *No Longer Human* by Osamu Dazai a while ago. Upon finishing, I felt a sense of déjà vu to another book, *The Stranger* by Albert Camus. These two novels originated from opposite ends of the world - Japan and France, yet they felt very similar, as if they were the Eastern and Western parallels of each other. Both share an overarching theme of the alienation caused by rejecting society's conventional philosophy and ethics: neo-Confucianist East Asian ethics in *No Longer Human*; and Christian ideals of the miracle of life and salvation in *The Stranger*.
+I read *No Longer Human* by Osamu Dazai a while ago. Upon finishing, I felt a sense of déjà vu to another book, *The Stranger* by Albert Camus. These two novels originated from opposite ends of the world - Japan and France, yet they felt very similar, as if they were the Eastern and Western parallels of each other. Both share an overarching theme of the alienation caused by rejecting society's conventional ethics: neo-Confucianist East Asian ethics in *No Longer Human*; and Christian ideals of the miracle of life and salvation in *The Stranger*.
 
 ### No Longer Human
 
@@ -45,7 +45,7 @@ The context of these lines refer to Yozo's admittance to the sanatorium, but can
 
 ![The Stranger](/assets/no-longer-human-and-the-stranger/the-stranger.jpeg)
 
-*The Stranger* (original French title: *L'Étranger*) is a novel by French author Albert Camus. Widely praised as a Western literary classic, *The Stranger* is regarded as Camus' breakthrough work and marks the start of his Nobel winning literary career. Like *No Longer Human*, Camus' critiques and rejects the conventional philosophy and ethics of his society and time - the Christian ideals of the miracle of life and salvation.
+*The Stranger* (original French title: *L'Étranger*) is a novel by French author Albert Camus. Widely praised as a Western literary classic, *The Stranger* is regarded as Camus' breakthrough work and marks the start of his Nobel winning literary career. Like *No Longer Human*, Camus' critiques and rejects the conventional ethics of his society and time - the Christian ideals of the miracle of life and salvation.
 
 *The Stranger* was published in 1942 and accounts the story of Meursault, a French Algerian settler. Algiers was the first territory colonized by France as part of its second colonial empire. At the time, France's justification of the French colonial expansion was to "civilize" other parts of the world through Christianity. Therefore, Christian tradition greatly influenced ethics, philosophy, and social conduct both domestically in France, and in its colonies such as Algiers.
 
@@ -77,4 +77,10 @@ Throughout the novel, Camus indirectly rejects the Christian tradition by presen
 
 ### Conclusion
 
-*No Longer Human* and *The Stranger* are Eastern and Western parallels, presenting the shared theme of alienation by society for rejecting the conventional philosophies and ethics of their society and time. Both Yozo and Meursault live contradictory to their respective societal values leading to alienation and demise. When read as a pair, the two novels contrast the differences between East and West. For those who are looking to understand Eastern or Western philosophies and ethics, these novels may broaden your horizons.
+In *No Longer Human*, Yozo rejects Eastern society's conventional ethics of collectivism and filial piety. As a result, he is alienated from society and sent to a sanatorium. In *The Stranger*, Meursault rejects Christian society's conventional ideals of salvation and miracle of life. As a result, he is alienated from society through imprisonment and execution. Both novels present the shared theme of rejection of a society's conventional philosophies and ethics, and resulting in a subsequent alienation. 
+
+One point of difference is - Eastern ethics are a set of principles which can be followed to varying degrees; while Western Christian ethics represent a binary choice where one either accepts salvation or rejects it. This is symbolized through the two protagonists, where Yozo's ethical adherence is nuanced and his resulting alienation is a gradual sequence of events, while Meursault's rejection of Christian ideals is concrete and his resulting alienation is a singular decisive trial.
+
+In the final parts of the novels, Yozo is deeply unhappy with his fate and laments society for being the way it is, while Meursault is satisfied, acknowledging that he "had been happy and (...) was happy again". This could be due to Yozo feeling a lifelong internal dissonance between himself and society while Meursault freely lives to his principles and readily accepts the consequences. This possibly mirrors Dazai and Camus' own personal sentiments; Dazai lived a deeply troubled life while Camus was generally happy.
+
+*No Longer Human* and *The Stranger* present an elucidating parallel between Eastern and Western societal values. For those looking to further their understanding of Eastern and Western philosophies and ethics, reading these two novels as a pair may broaden your horizons.
