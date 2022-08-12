@@ -79,6 +79,9 @@ Throughout the novel, Camus indirectly rejects the Christian tradition by presen
 
 In *No Longer Human*, Yozo rejects Eastern society's conventional ethics of collectivism and filial piety. As a result, he is alienated from society and sent to a sanatorium. In *The Stranger*, Meursault rejects Christian society's conventional ideals of salvation and miracle of life. As a result, he is alienated from society through imprisonment and execution. Both novels present the shared theme of rejection of a society's conventional philosophies and ethics, and resulting in a subsequent alienation. 
 
+![Yushima Seido Confucian Temple in Japan and Reims Cathedral in France](/assets/no-longer-human-and-the-stranger/yushima-seido-reims-cathedral.png)
+###### Yushima Seido Confucian Temple in Japan and Reims Cathedral in France
+
 One point of difference is - Eastern ethics are a set of principles which can be followed to varying degrees; while Western Christian ethics represent a binary choice where one either accepts salvation or rejects it. This is symbolized through the two protagonists, where Yozo's ethical adherence is nuanced and his resulting alienation is a gradual sequence of events, while Meursault's rejection of Christian ideals is concrete and his resulting alienation is a singular decisive trial.
 
 In the final parts of the novels, Yozo is deeply unhappy with his fate and laments society for being the way it is, while Meursault is satisfied, acknowledging that he "had been happy and (...) was happy again". This could be due to Yozo feeling a lifelong internal dissonance between himself and society while Meursault freely lives to his principles and readily accepts the consequences. This possibly mirrors Dazai and Camus' own personal sentiments; Dazai lived a deeply troubled life while Camus was generally happy.
