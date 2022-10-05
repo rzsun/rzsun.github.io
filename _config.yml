@@ -29,3 +29,4 @@ repo:               https://github.com/rzsun
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
