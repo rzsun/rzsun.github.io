@@ -5,18 +5,19 @@ title: Home
 <main>
   <div class="container content">
     <div class="posts">
+      <h1>Blog</h1>
       {% for post in paginator.posts %}
+        <ul>
         {% if post.archived != true %}
-          <article class="index-post">    
-            <time datetime="{{ post.date | date_to_xmlschema }}" class="index-post-date">{{ post.date | date_to_string }}</time>
+          <li>
             <a href="{{ site.baseurl }}{{ post.url }}">
                 {{ post.title }}
             </a>
-          </article>
+          </li>
         {% endif %}
+        </ul>
       {% endfor %}
     </div>
-
     <div class="pagination">
       {% if paginator.next_page and paginator.previous_page %}
         {% if paginator.next_page %}
