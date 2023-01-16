@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               rzsun
 url:                 "https://rzsun.dev"
-paginate:            10
+paginate:            100
 baseurl:             ""
 
 # Assets
