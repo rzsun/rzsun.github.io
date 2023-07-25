@@ -16,19 +16,21 @@ Random is much slower than sequential. On HDDs, the overhead is from disk head m
 
 Tree like structure with multiple levels, used for write heavy cases, main optimization comes from sequential writes. Most commonly for key-value data.
 
-L0 \[Memtable keys a-z\]
-L1 \[SST keys a-e\], \[SST keys f-p\], \[SST keys q-z\]
-L2 \[SST keys a-c\], \[SST keys d-f\], \[SST keys g-p\], \[SST keys q-t\], \[SST keys u-z\]
-...
-LN 
+```
+L0 [Memtable keys a-z]
+L1 [SST keys a-e] [SST keys f-p] [SST keys q-z]
+L2 [SST keys a-c] [SST keys d-f] [SST keys g-p] [SST keys q-t] [SST keys u-z]
+.
+.
+.
+LN [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] [SST] ...
+```
 
 ## Writes
 
 - L0 "Memtable" stores most recently inserted data in memory
 - Implemented as a sorted data structure such as self balancing tree or skip list
 - Has a max size, once size is filled, the contents are flushed to disk (sequential writes).
-
-## Flush
 
 ## SST
 - Storage format for key-value pairs flushed to disk
