@@ -8,6 +8,8 @@ title:               rzsun
 url:                 "https://rzsun.dev"
 paginate:            100
 baseurl:             ""
+markdown:            kramdown
+
 
 # Assets
 #
