@@ -106,3 +106,19 @@ References:
 - set of consumers that receive each message at least once
 - each partition is consumed by exactly one consumer within each subscribing consumer
 - one broker is group coordinator and manages offsets
+
+# Spanner
+
+## Schema Design
+
+Reference: https://cloud.google.com/spanner/docs/whitepapers/optimizing-schema-design
+
+- PRIMARY KEY organizes table lexicographically
+- root table (parent) -> interleaved table (child) (similar to snowflake schema)
+    - large columns can also be stored in non-interleaved tables
+- partition happens automatically based on data locality of root table
+- prioritize desired locality for most important root entities and most common access patterns
+
+## Infra
+
+- external consistency: system behaves as if all transactions were executed sequentially
