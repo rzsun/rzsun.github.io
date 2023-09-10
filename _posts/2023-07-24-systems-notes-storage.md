@@ -3,6 +3,8 @@ layout: post
 title: "Systems Notes: Storage"
 ---
 
+Personal notes on storage architectures.
+
 * TOC
 {:toc}
 
