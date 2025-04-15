@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Five Years of Chinese Self-study as a Heritage Speaker'
+archived: true
 ---
 
 Five years ago, in 2017, I decided to earnestly start self-studying Chinese. I was born in China but emigrated when I was seven years old. The small amount of Chinese ability I retained from half a year of elementary school was rusty after so many years of neglect, especially considering that I never enrolled in Chinese school nor taken classes. I had a limited vocabulary, could only converse about basic topics, and could not read/write at all.
